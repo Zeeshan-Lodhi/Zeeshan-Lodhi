@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-lodhi&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-lodhi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zeeshanlodhi33" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanlodhi33?logo=twitter&style=for-the-badge" alt="zeeshanlodhi33" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/zeeshanlodhi33" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanlodhi33?logo=twitter&style=for-the-badge" alt="zeeshanlodhi33" /></a> </p>
+ -->
 - 🔭 I’m currently working on a **job portal website**
 
 - 👨‍💻 All of my projects are available at [https://zeeshanlodhi.netlify.app/](https://zeeshanlodhi.netlify.app/)
