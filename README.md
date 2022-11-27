@@ -1,3 +1,4 @@
+![logo](https://github.com/Zeeshan-Lodhi/Zeeshan-Lodhi/blob/main/Full%20Stack%20Developer.png)
 <h1 align="center">Hi 👋, I'm Zeeshan Lodhi</h1>
 <h3 align="center">A passionate full stack developer from Pakistan, Gujrat</h3>
 
