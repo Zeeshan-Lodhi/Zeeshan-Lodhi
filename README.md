@@ -1,24 +1,3 @@
-<!-- ![logo](https://github.com/Zeeshan-Lodhi/Zeeshan-Lodhi/blob/main/Full%20Stack%20Developer.png) -->
-<h1 align="center">Hi 👋, I'm Zeeshan Lodhi</h1>
-<h3 align="center">A passionate full stack developer from Pakistan, Gujrat</h3>
-
-<img align="right" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="400" alt="coding">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshan-lodhi&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-lodhi" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/zeeshanlodhi33" target="blank"><img src="https://img.shields.io/twitter/follow/zeeshanlodhi33?logo=twitter&style=for-the-badge" alt="zeeshanlodhi33" /></a> </p>
- -->
-- 🔭 I’m currently working on a **job portal website**
-
-- 👨‍💻 All of my projects are available at [https://zeeshanlodhi.netlify.app/](https://zeeshanlodhi.netlify.app/)
-
-- 💬 Ask me about **web, mern and javascript**
-
-- 📫 How to reach me **zeshanlodhi24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bNeg19tfDkXuFg-g20hU-lMzgVAj-TPT/view](https://drive.google.com/file/d/1bNeg19tfDkXuFg-g20hU-lMzgVAj-TPT/view)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeeshanlodhi33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeshanlodhi33" height="30" width="40" /></a>
